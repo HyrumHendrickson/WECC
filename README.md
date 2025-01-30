@@ -1,5 +1,10 @@
 # WECC
 
+# Western Electricity Coordinating Council
+
+# Project Propsal Purpose
+# Help the council improve their power grid through tracking extreme weather 
+
 I included 3 different methods to load the data
 
 .qmd (markdown file for r) 
